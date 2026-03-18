@@ -9,6 +9,6 @@ public class Beecr1002 {
     double area = n*raioq;
     
     System.out.printf("A=%.4f%n",area);
- 
+    input.close();
     }
 }

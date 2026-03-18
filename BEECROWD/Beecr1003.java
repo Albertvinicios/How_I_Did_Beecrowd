@@ -9,5 +9,6 @@ public class Beecr1003 {
     int SOMA = A+B;
     
     System.out.println("SOMA = "+SOMA);
+    input.close();
     }
 }
