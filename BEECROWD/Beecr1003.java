@@ -1,8 +1,7 @@
-import java.io.IOException;
 import java.util.Scanner;
 public class Beecr1003 {
  
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args){
     Scanner input = new Scanner(System.in);
     
     int A = input.nextInt();
