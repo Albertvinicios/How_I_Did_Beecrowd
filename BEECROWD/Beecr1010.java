@@ -8,7 +8,7 @@ public class Beecr1010 {
             int cont = 0;
             while(cont < 2)
             {
-                int codigo = input.nextInt();
+                int codigo = input.nextInt(); //código pedido no Exercício
                 quantidade = input.nextInt();
                 valorp = input.nextDouble();
                 valorf += quantidade*valorp;

@@ -5,7 +5,7 @@ public class Beecr1009 {
         Scanner input = new Scanner(System.in);
 
         double salariof, vendas, comissao, salarioreal;
-        String nome = input.nextLine();
+        String nome = input.nextLine(); //Nome Pedido no Exercício
         salariof = input.nextDouble();
         vendas = input.nextDouble();
 

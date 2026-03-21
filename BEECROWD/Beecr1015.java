@@ -9,7 +9,9 @@ public class Beecr1015{
     float y2 = input.nextFloat();
 
     double dist = Math.sqrt(Math.pow(x2-x1,2)+Math.pow(y2-y1,2));
+    
     System.out.printf("%.4f\n",dist);
+
     input.close();
     }
 }
